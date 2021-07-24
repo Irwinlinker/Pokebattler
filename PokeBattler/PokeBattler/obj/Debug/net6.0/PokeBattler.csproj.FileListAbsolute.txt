@@ -1,0 +1,15 @@
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\bin\Debug\net6.0\PokeBattler.exe
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\bin\Debug\net6.0\PokeBattler.deps.json
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\bin\Debug\net6.0\PokeBattler.runtimeconfig.json
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\bin\Debug\net6.0\PokeBattler.dll
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\bin\Debug\net6.0\ref\PokeBattler.dll
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\bin\Debug\net6.0\PokeBattler.pdb
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\obj\Debug\net6.0\PokeBattler.csproj.AssemblyReference.cache
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\obj\Debug\net6.0\PokeBattler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\obj\Debug\net6.0\PokeBattler.AssemblyInfoInputs.cache
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\obj\Debug\net6.0\PokeBattler.AssemblyInfo.cs
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\obj\Debug\net6.0\PokeBattler.csproj.CoreCompileInputs.cache
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\obj\Debug\net6.0\PokeBattler.dll
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\obj\Debug\net6.0\ref\PokeBattler.dll
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\obj\Debug\net6.0\PokeBattler.pdb
+C:\Users\whybn\OneDrive\Desktop\CS\PokeBattler\PokeBattler\obj\Debug\net6.0\PokeBattler.genruntimeconfig.cache
